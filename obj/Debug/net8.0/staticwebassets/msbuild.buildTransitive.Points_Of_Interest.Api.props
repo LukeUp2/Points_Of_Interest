@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Points_Of_Interest.Api.props" />
+</Project>
